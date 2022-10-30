@@ -84,14 +84,10 @@
   
 
 <br/>  
-
-
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Proyectos&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-
-
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 Si lo tuyo es C/C++, Java, JavaScript,  Python, PHP, entre muchos otros, este sin duda será tu blog favorito después de Engrane Digital.
