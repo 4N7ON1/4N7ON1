@@ -1,40 +1,111 @@
-<p align="center">
-    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=82a1493bcars2yej3wxyx8eu2a7n82jpmcqs4zo3wh3y4obx&rid=200w.gif&ct=g" width="150">
-</p>
-<h2 align="center"> 🧑‍✈️​ Hola, soy Marco Calle un gusto 👨🏽‍💻​ 😎​</h2>
-<h4 align="center"> Trabajos || Proyectos || Laboratorios </h4>
-<h7 >Estudiante de Ingenieria en Sistemas Marco Antonio Calle Vaquiata nacido el 13 de noviembre del 2002(Bolivia)  cursando  el 3er semestre en la Universidad Franz Tamayo y actualmente dedicando  mucho tiempo a la programacion, desarrollando la logica y pudiendo tener ambitos de:</h7>
+<div align="center">
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=82a1493bcars2yej3wxyx8eu2a7n82jpmcqs4zo3wh3y4obx&rid=200w.gif&ct=g" align="center" height="200" width="250" />
+</div>  
+  
 
-- *💎​🌟​comunicador💎​🌟​*
-- *💎​🌟​logica de programacion💎​🌟​*
-- *💎​🌟​tiempo libre💎​🌟​*
-- *💎​🌟​lectura y comprension rapida💎​🌟​*
-- *💎​🌟​aprender por propia cuenta💎​🌟​*
-- *💎​🌟​dominio de lenguajes💎​🌟​*
-- *💎​🌟​English A2💎​🌟​*
-<h3 align="center"> Herramientas y Lenguajes </h3>
-<table>
-<caption><h3 align="center"> My skill </h3></caption>
-  <tr>
-    <td> <p>
-    <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="250"></p></td>
-    <td> <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="250"></p></td>
-    <td> <p>
-    <img src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="250"></p></td>
-    <td> <p>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuFPgmZwW8sJrDMN-CIc4eA2fsAmVQgMjt_uF82HzirwKbgoqp5_Jik5UWI-v4uNO5wg&usqp=CAU" width="450"></p></td>
-  </tr>
-</table>
-<table>
-<caption><h3 align="center"> My skill </h3></caption>
-  <tr>
-    <td> <p>
-    <img src="https://kinsta.com/wp-content/uploads/2019/04/logo-mysql-1.svg" width="300"></p></td>
-    <td> <p>
-    <img src="https://www.enriquedans.com/wp-content/uploads/2013/05/MariaDB.jpg" width="300"></p></td>
-    <td> <p>
-    <img src="data:image/jpeg;base64,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" width="300"></p></td>
-    
-  </tr>
-</table>
+# <div align="center">✈️​ Hola, soy Marco Calle un gusto 👨🏽‍💻​ 😎​</div>  
+  
+
+- Estudiante de Ingenieria en Sistemas Marco Antonio Calle Vaquiata nacido el 13 de noviembre del 2002(Bolivia)  cursando  el 3er semestre en la Universidad Franz Tamayo y actualmente dedicando  mucho tiempo a la programacion, desarrollando la logica y pudiendo tener ambitos de:  
+  
+
+- 💎​🌟​comunicador💎​🌟​
+- 💎​🌟​logica de programacion💎​🌟​
+- 💎​🌟​tiempo libre💎​🌟​
+- 💎​🌟​lectura y comprension rapida💎​🌟​
+- 💎​🌟​aprender por propia cuenta💎​🌟​
+- 💎​🌟​dominio de lenguajes💎​🌟​
+- 💎​🌟​English A2💎​🌟​  
+  
+
+  
+  
+
+  
+  
+
+![]()  
+  
+
+![]()  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<a href="https://github.com/https://github.com/4N7ON1" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/antonio.cv.96343" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/antonio.cv.96343" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Proyectos&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+Si lo tuyo es C/C++, Java, JavaScript,  Python, PHP, entre muchos otros, este sin duda será tu blog favorito después de Engrane Digital.
+
+Además hay  mucha información sobre el software libre, colaboraciones y actualizaciones de lo más interesantes.
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://static.wixstatic.com/media/9fbddc_e858c04a7f9a403bb5ab9cf6045eb81b~mv2.gif"  width="400"/></div>  
+
+
+
+
+
+
+</div>
