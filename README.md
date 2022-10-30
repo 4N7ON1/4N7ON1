@@ -82,17 +82,19 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
 <br/>  
+
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Proyectos&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
+
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 Si lo tuyo es C/C++, Java, JavaScript,  Python, PHP, entre muchos otros, este sin duda será tu blog favorito después de Engrane Digital.
 
 Además hay  mucha información sobre el software libre, colaboraciones y actualizaciones de lo más interesantes.
+
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
