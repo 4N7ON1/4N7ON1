@@ -93,7 +93,7 @@
 <!-- BLOG-POST-LIST:START -->  
 Si lo tuyo es C/C++, Java, JavaScript,  Python, PHP, entre muchos otros, este sin duda será tu blog favorito después de Engrane Digital.
 
-Además hay  mucha información sobre el software libre, colaboraciones y actualizaciones de lo más interesantes.
+
 
 <!-- BLOG-POST-LIST:END -->  
 
